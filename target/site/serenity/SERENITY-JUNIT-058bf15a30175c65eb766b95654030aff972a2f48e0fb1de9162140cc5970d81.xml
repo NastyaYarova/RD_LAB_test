@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="0" name="Google translate story" skipped="0" tests="3" time="39.42" timestamp="2019-02-19T12:18:05.271+02:00[Europe/Helsinki]"><testcase name="Looking up the translation of 'apple'"/><testcase name="Check the number of characters entered"/><testcase name="Looking up the definition of 'apple'"/></testsuite>

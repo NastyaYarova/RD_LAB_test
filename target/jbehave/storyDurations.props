@@ -1,0 +1,7 @@
+#org.jbehave.core.embedder.StoryManager
+#Tue Feb 19 12:19:02 EET 2019
+stories/consult_dictionary/GoogleTranslateStory.story=42000
+threads=1
+total=56000
+threadAverage=56000
+stories/consult_dictionary/LookupADefinition.story=14000

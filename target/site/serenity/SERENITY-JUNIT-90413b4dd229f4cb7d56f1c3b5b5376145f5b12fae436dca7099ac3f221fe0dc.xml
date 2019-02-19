@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="1" failures="0" name="Lookup a definition" skipped="0" tests="1" time="13.75" timestamp="2019-02-19T12:18:47.512+02:00[Europe/Helsinki]"><testcase name="Looking up the wrong mail ErrorMessage"><error type="java.lang.NullPointerException"/><system-err>null&#13;
+RD_LAB_3.steps.DefinitionSteps.Lesson14.DefinitionStepsFacebookLogInPage.they_should_see_the_ErrorMessage(DefinitionStepsFacebookLogInPage.java:46)&#13;
+</system-err></testcase></testsuite>
