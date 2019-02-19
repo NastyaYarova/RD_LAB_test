@@ -6,6 +6,9 @@ I want to look up word definitions
 
 
 Scenario: Looking up the wrong mail ErrorMessage
+Meta:
+@skip
+@ignored true
 Given user is on the FscebookEnterPage
 When user input '0980261901'
 And user input wrong '12345678'
