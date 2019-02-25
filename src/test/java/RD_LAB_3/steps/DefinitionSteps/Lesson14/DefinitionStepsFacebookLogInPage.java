@@ -14,6 +14,8 @@ public class DefinitionStepsFacebookLogInPage {
 
     @Steps
     StepsFacebookEnterPage stepsFacebookEnterPage;
+
+    @Steps
     StepsFacebookLogInPage stepsFacebookLogInPage;
 
     @Managed
