@@ -46,11 +46,6 @@ public class RozetkaHairStylingToolsPage extends PageObject {
             String price = priceList.get(i).getText();
             price= price.substring(0, price.indexOf("г")-1);
             int priceInt = Integer.valueOf(price);
-//            if(priceint>=priceMin && priceint<=priceMax){
-//              boolean  result = true;
-//            } else {
-//                boolean  result = false;
-//            }
             assertTrue(priceMin <= priceInt && priceInt <= priceMax);
         }
     }
